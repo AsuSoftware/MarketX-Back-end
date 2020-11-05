@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-/** product-tracker Created by Catalin on 10/21/2020 */
+/** product-tracker Created on 10/21/2020 */
 @RestController
 @RequiredArgsConstructor
 @RequestMapping(path = "/api/v1/addresses")
