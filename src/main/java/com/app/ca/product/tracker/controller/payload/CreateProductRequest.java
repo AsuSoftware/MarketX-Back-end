@@ -7,7 +7,7 @@ import lombok.Setter;
 import javax.validation.Valid;
 import javax.validation.constraints.NotNull;
 
-/** product-tracker Created by Catalin on 10/31/2020 */
+/** product-tracker Created on 10/31/2020 */
 @Getter
 @Setter
 public class CreateProductRequest {
