@@ -7,7 +7,7 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
-/** product-tracker Created by Catalin on 10/31/2020 */
+/** product-tracker Created on 10/31/2020 */
 @Getter
 @Setter
 @Builder
