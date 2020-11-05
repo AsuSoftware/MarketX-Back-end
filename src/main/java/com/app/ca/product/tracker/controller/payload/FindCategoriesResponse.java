@@ -7,7 +7,7 @@ import lombok.Setter;
 
 import java.util.List;
 
-/** product-tracker Created by Catalin on 10/31/2020 */
+/** product-tracker Created on 10/31/2020 */
 @Getter
 @Setter
 @AllArgsConstructor
