@@ -22,7 +22,7 @@ import javax.validation.Valid;
 import java.util.List;
 import java.util.UUID;
 
-/** product-tracker Created by Catalin on 10/21/2020 */
+/** product-tracker Created on 10/21/2020 */
 @RestController
 @RequiredArgsConstructor
 @RequestMapping(path = "/api/v1/products")
